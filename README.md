@@ -1,7 +1,7 @@
 <img width="3440" height="1440" alt="ペルソナ２　罪 2026-10-25-12-25-49" src="https://github.com/user-attachments/assets/f45ce263-3893-4b1f-a619-ed625d83436a" />
 
 
-# Persona 2: Tsumi (PlayStation, Japão) — Tradução PT-BR v1.0.2
+# Persona 2: Tsumi (PlayStation, Japão) — Tradução PT-BR v1.0.3
 
 Tradução completa do **Persona 2: Tsumi** (ペルソナ2 罪, «Innocent Sin») japonês de PlayStation para o português do Brasil, feita a partir do texto japonês original por **BRSniperX**.
 
@@ -64,15 +64,16 @@ O passo a passo completo está no `LEIA-ME.txt`. Os hashes estão em `SHA256SUMS
 
 ## Novidades
 
-- **v1.0.2**: texto revisado. Mais duas leituras completas da história, dos NPCs e da cidade; cerca de 220 falas reescritas para soar mais naturais em português (frases truncadas, termos ao pé da letra, concordância).
+- **v1.0.3**: nas batalhas, a descrição das magias, das magias de fusão e dos itens e o perfil dos personagens (Status) apareciam em japonês: corrigido. Sobrenomes longos não invadem mais o nome no Status. Fala do Eikichi no contato ajustada para o erro dele soar intencional ("Há males que vêm a cavalo"... hã?).
+- **v1.0.2**: texto revisado. Mais duas leituras completas da história, dos NPCs e da cidade; cerca de 220 falas reescritas para soar mais naturais em português.
 - **v1.0.1**: corrigido o travamento ao falar com um aluno no pátio do 1º andar do Colégio Sete Irmãs (capítulo 1).
 - **v1.0**: primeira versão pública.
 
 ## Como atualizar
 
-Aplique a v1.0.2 na imagem **original** do jogo japonês (.bin/.cue, SLPS-02100), como nas versões anteriores: extraia o zip, coloque o `.bin` na pasta e rode o `APLICAR_PATCH.bat`. O patch não se aplica sobre a imagem já traduzida. Os saves do cartão de memória continuam valendo.
+Aplique a v1.0.3 na imagem **original** do jogo japonês (.bin/.cue, SLPS-02100), como nas versões anteriores: extraia o zip, coloque o `.bin` na pasta e rode o `APLICAR_PATCH.bat`. O patch não se aplica sobre a imagem já traduzida. Os saves do cartão de memória continuam valendo.
 
-Arquivos: `Persona2-Tsumi-PTBR-v1.0.2.zip` · `LEIA-ME.txt` · `SHA256SUMS.txt` (`sha256sum -c SHA256SUMS.txt`).
+Arquivos: `Persona2-Tsumi-PTBR-v1.0.3.zip` · `LEIA-ME.txt` · `SHA256SUMS.txt` (`sha256sum -c SHA256SUMS.txt`).
 
 ---
 
