@@ -2,7 +2,7 @@
 <img width="3440" height="1440" alt="ペルソナ２　罪 2026-10-31-19-20-51" src="https://github.com/user-attachments/assets/cb192640-586a-4e35-b6c1-b605f9f247ce" />
 
 
-# Persona 2: Tsumi (PlayStation, Japão) — Tradução PT-BR v1.0.6
+# Persona 2: Tsumi (PlayStation, Japão) — Tradução PT-BR v1.0.7
 
 Tradução completa do **Persona 2: Tsumi** (ペルソナ2 罪, «Innocent Sin») japonês de PlayStation para o português do Brasil, feita a partir do texto japonês original por **BRSniperX**.
 
@@ -14,8 +14,8 @@ No japonês, vários personagens misturam inglês na fala (em katakana): o Eikic
 
 | Edição | O que faz | Windows | Android, Mac, Linux |
 |---|---|---|---|
-| **Normal** | Mantém o inglês dos personagens, como no original | `Persona2-Tsumi-PTBR-v1.0.6.zip` | `Persona2-Tsumi-PTBR-v1.0.6-xdelta.zip` |
-| **Sem inglês** | O inglês das falas vira português | `Persona2-Tsumi-PTBR-v1.0.6-sem-ingles.zip` | `Persona2-Tsumi-PTBR-v1.0.6-sem-ingles-xdelta.zip` |
+| **Normal** | Mantém o inglês dos personagens, como no original | `Persona2-Tsumi-PTBR-v1.0.7.zip` | `Persona2-Tsumi-PTBR-v1.0.7-xdelta.zip` |
+| **Sem inglês** | O inglês das falas vira português | `Persona2-Tsumi-PTBR-v1.0.7-sem-ingles.zip` | `Persona2-Tsumi-PTBR-v1.0.7-sem-ingles-xdelta.zip` |
 
 ### O que muda na edição sem inglês
 
@@ -107,6 +107,7 @@ O passo a passo completo está em `LEIA-ME.txt` (normal) e `LEIA-ME-sem-ingles.t
 
 ## Novidades
 
+- **v1.0.7**: corrigido o travamento (tela preta) depois de batalhas no Monte Katatsumuri, que também podia acontecer na Nave Xibalba e no Templo Escorpião; 4 placas de local que saíam cortadas no canto da tela agora aparecem inteiras; nos estados, «Surto» virou «Descontrole» e «Selo» virou «Selado». Vale para as duas edições.
 - **v1.0.6**: edição sem inglês. Nas duas edições, a fala da Maya com «imprinting» virou «instinto de filhote», e a do Eikichi com «smart» foi corrigida (na normal, «slim»; na sem inglês, «esbelto»).
 - **v1.0.5**: na Sala de Veludo, as 150 falas de apresentação das Personas (ao invocar) estavam em japonês: agora estão em português. Escolhas da história com 4 opções: algumas respostas passavam por cima da vizinha e foram encurtadas. Mapas: placas da última sala de cada mapa e dois nomes de local em PT. Lojas: 10 descrições de item cabem na caixa; «Na bolsa» → «Possui», «Não equipa» → «Não usa». Restaurante: o efeito da comida mostra «FOR» (era «STR»). **Novo: patch .xdelta** para Android/Mac/Linux.
 - **v1.0.4**: na batalha, a descrição de 121 magias e magias de fusão tinha uma linha a mais, que ficava por cima do nome da Persona e do custo de SP: agora cada descrição cabe na caixa. No contato com demônios, 38 respostas de escolha que passavam da borda da caixa foram encurtadas.
