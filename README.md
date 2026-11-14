@@ -2,7 +2,7 @@
 <img width="3440" height="1440" alt="ペルソナ２　罪 2026-10-31-19-20-51" src="https://github.com/user-attachments/assets/cb192640-586a-4e35-b6c1-b605f9f247ce" />
 
 
-# Persona 2: Tsumi (PlayStation, Japão) — Tradução PT-BR v1.0.7
+# Persona 2: Tsumi (PlayStation, Japão) — Tradução PT-BR v1.0.8
 
 Tradução completa do **Persona 2: Tsumi** (ペルソナ2 罪, «Innocent Sin») japonês de PlayStation para o português do Brasil, feita a partir do texto japonês original por **BRSniperX**.
 
@@ -14,33 +14,32 @@ No japonês, vários personagens misturam inglês na fala (em katakana): o Eikic
 
 | Edição | O que faz | Windows | Android, Mac, Linux |
 |---|---|---|---|
-| **Normal** | Mantém o inglês dos personagens, como no original | `Persona2-Tsumi-PTBR-v1.0.7.zip` | `Persona2-Tsumi-PTBR-v1.0.7-xdelta.zip` |
-| **Sem inglês** | O inglês das falas vira português | `Persona2-Tsumi-PTBR-v1.0.7-sem-ingles.zip` | `Persona2-Tsumi-PTBR-v1.0.7-sem-ingles-xdelta.zip` |
+| **Normal** | Mantém o inglês dos personagens, como no original | `Persona2-Tsumi-PTBR-v1.0.8.zip` | `Persona2-Tsumi-PTBR-v1.0.8-xdelta.zip` |
+| **Sem inglês** | As falas ficam 100% em português | `Persona2-Tsumi-PTBR-v1.0.8-sem-ingles.zip` | `Persona2-Tsumi-PTBR-v1.0.8-sem-ingles-xdelta.zip` |
 
 ### O que muda na edição sem inglês
 
-São 461 mensagens trocadas; o resto do jogo é igual. Os personagens continuam com o jeito deles, mas perdem um pouco do sabor do original.
+São 1.359 mensagens trocadas em relação à edição normal. Além do inglês, saíram também os outros idiomas e os títulos estrangeiros. Os personagens continuam com o jeito deles, mas perdem um pouco do sabor do original.
 
 | Original | Nesta edição |
 |---|---|
 | baby | xuxu (falando de uma mulher: gatinha) |
 | everybody | galera |
-| biutiful | maravilindo |
-| lady | dama |
 | Okay (Eikichi) | Beleza |
 | Let's positive thinking! | Pensamento positivo! |
 | Give and take | Toma lá, dá cá |
-| idol | ídola |
+| King Leo / Lady Scorpion | Rei Leão / Dama Escorpião |
+| Sumaru Gypsy | Cigana de Sumaru |
+| In Lak'ech | o Outro Você |
+| Yail Kamen!! | Salve, Máscara!! |
+| rank / chat | nível / bate-papo |
 
 Continuam em inglês, de propósito:
 
-- Nomes: Gas Chamber, MUSES, Joker, King Leo, Lady Scorpion, Coolest, Peace Diner, Miss Sevens, Devil Summoner, magias…
-- «Mr. Lady»: termo criado no Japão; adaptar arriscaria uma ofensa que o original não tem.
-- «Sorry-a»: é cantonês de Hong Kong, e a própria Lisa explica o que quer dizer numa das aulas dela.
-- Um demônio que se gaba de saber inglês: «I love you», «You shall die!» e «FOOL». A piada é essa.
-- Termos de jogo e interface: rank, blackjack, chat e o que já é inglês na arte do jogo.
-
-É uma edição nova: as falas trocadas foram conferidas por ferramenta, mas nem todas foram vistas dentro do jogo.
+- Nomes de lojas, bandas e lugares: MUSES, Gas Chamber, Peace Diner, Smile Hirasaka, Coolest…
+- Joker, e os nomes de Personas, demônios, magias, ataques e itens.
+- Sons como «Hoooow» e «Hi».
+- Algumas palavras da arte do jogo (as mesmas da edição normal, abaixo).
 
 ## O tamanho do trabalho
 
@@ -59,26 +58,26 @@ Ferramentas próprias conferem a largura de cada caixa de texto, o uso de memór
 
 Artes refeitas:
 
-- tela de título;
-- o poema do vídeo de abertura;
-- interface: nomes do grupo, estados, status da Persona e listas da Sala de Veludo;
-- placas das lojas, nomes dos lugares e botões do mapa da cidade;
-- bússola do campo;
-- nomes dos arcanos na fonte estilizada;
-- a magia de fusão «Lenda Negra Jovem».
+- tela de título e o poema do vídeo de abertura;
+- interface: nomes do grupo, estados, status da Persona, menus (SALVAR, ABRIR, HORAS…) e listas da Sala de Veludo;
+- fim da batalha (MUTOU, GANHOS) e FIM DE JOGO;
+- placas das lojas, nomes dos lugares e botões do mapa da cidade; bússola e botões do mapa das dungeons;
+- cassino inteiro: placas, botões, letreiros e logotipos dos quatro jogos;
+- nomes dos arcanos na fonte estilizada e a magia de fusão «Lenda Negra Jovem».
 
 ## O que está traduzido
 
 - História completa e falas de NPCs, lojas, boatos e Sala de Veludo, inclusive as falas das Personas ao serem invocadas.
-- Batalhas: comandos, mensagens, magias, itens e falas dos chefes.
+- Batalhas: comandos, mensagens, magias, itens, falas dos chefes e a Análise dos demônios.
 - Contato com demônios: todas as conversas.
 - Enciclopédia, cartas de tarô, menus, Status, mapas da cidade e placas das salas e dos locais.
+- Cassino: pôquer CORINGA 9, vinte-e-um UNIR FORÇAS, caça-níquel DESPERTA VAZIO e bingo RODA DA SORTE.
 - Tela de título e o poema do vídeo de abertura.
 
 ## O que ficou como no original
 
 - Créditos finais (nomes da equipe japonesa).
-- Palavras que já são inglês na arte do jogo (RESULT, NEXT, SCROLL, DASH…).
+- Algumas palavras em inglês da arte do jogo, onde não há espaço ou são termos de jogo: LEVEL UP, RANK, o nome do arcano nas cartas das Personas e alguns balões do vinte-e-um (B.JACK, 7CARDS).
 - Textos de teste e depuração que o jogo não mostra.
 
 ## Requisitos
@@ -107,6 +106,7 @@ O passo a passo completo está em `LEIA-ME.txt` (normal) e `LEIA-ME-sem-ingles.t
 
 ## Novidades
 
+- **v1.0.8**: **cassino em português** — os quatro jogos com textos, placas, botões, letreiros e logotipos em PT, e as máquinas com nomes em português (CORINGA 9, UNIR FORÇAS, DESPERTA VAZIO, RODA DA SORTE); os nomes do grupo na aposta em grupo apareciam em japonês. **Análise da batalha:** traços do demônio separados (saíam um por cima do outro), Info em português e o nome do demônio não encosta mais no arcano. **Contato:** a linha de traços não passa mais da tela. **Arte em PT:** menus, Sala de Veludo, fim da batalha, FIM DE JOGO, mapas da cidade e das dungeons, opções LIG/DESL. **Edição sem inglês 100% PT:** títulos e codinomes (Rei Leão, Dama Escorpião, Cigana de Sumaru), o cantonês da Lisa, o maia e o grito do Círculo Mascarado. Obrigado a quem mandou os prints e o vídeo!
 - **v1.0.7**: corrigido o travamento (tela preta) depois de batalhas no Monte Katatsumuri, que também podia acontecer na Nave Xibalba e no Templo Escorpião; 4 placas de local que saíam cortadas no canto da tela agora aparecem inteiras; nos estados, «Surto» virou «Descontrole» e «Selo» virou «Selado». Vale para as duas edições.
 - **v1.0.6**: edição sem inglês. Nas duas edições, a fala da Maya com «imprinting» virou «instinto de filhote», e a do Eikichi com «smart» foi corrigida (na normal, «slim»; na sem inglês, «esbelto»).
 - **v1.0.5**: na Sala de Veludo, as 150 falas de apresentação das Personas (ao invocar) estavam em japonês: agora estão em português. Escolhas da história com 4 opções: algumas respostas passavam por cima da vizinha e foram encurtadas. Mapas: placas da última sala de cada mapa e dois nomes de local em PT. Lojas: 10 descrições de item cabem na caixa; «Na bolsa» → «Possui», «Não equipa» → «Não usa». Restaurante: o efeito da comida mostra «FOR» (era «STR»). **Novo: patch .xdelta** para Android/Mac/Linux.
